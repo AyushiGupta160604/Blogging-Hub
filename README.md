@@ -8,6 +8,7 @@ Welcome to **Blogging-Hub**, a minimalistic and elegant blogging platform built 
 - [Features](#features)
 - [Live Demo](#live-demo)
 - [Screenshots](#screenshots)
+- [usingJsonServer](#Using-JSON-Server)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
@@ -28,6 +29,16 @@ Blogging-Hub is a straightforward blogging application built with React.js. It a
 ## Live Demo
 
 Check out the live demo of the Blogging-Hub [here](your_live_demo_link).
+
+## Screenshots
+
+## Using-JSON-Server
+Open a new terminal and run command:
+```bash
+npx json-server --watch data/db.json --port 8000
+It will start the json server on port 8000.
+Make sure to have a different from that where site is running as two can't run on same port.
+You can use any port in my project i have used port 8000 for the data fetching and 3000 for the running site on local system.
 
 ## Installation
 

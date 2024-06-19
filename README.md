@@ -28,9 +28,15 @@ Blogging-Hub is a straightforward blogging application built with React.js. It a
 
 ## Live Demo
 
-Check out the live demo of the Blogging-Hub [here](https://github.com/AyushiGupta160604/Blogging-Hub/blob/main/Project-preview/Blogging-Hub.mp4).
+Check out the live demo of the Blogging-Hub [here](https://drive.google.com/file/d/1ZcPxDboFcFJAFdxjL_9YeedfEfkSIHZj/view?usp=sharing).
 
 ## Screenshots
+- Home page preview:
+  ![Homepage](#)
+- That's what you will see when you click on any blog:
+  ![DisplayBlog](#)
+- When you want to create a new blog you will see something like this:
+  ![CreateBlog](#)
 
 ## Using-JSON-Server
 - Open a new terminal and run command:

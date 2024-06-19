@@ -32,11 +32,11 @@ Check out the live demo of the Blogging-Hub [here](https://drive.google.com/file
 
 ## Screenshots
 - Home page preview:
-  ![Homepage](#)
+  ![Homepage](https://github.com/AyushiGupta160604/Blogging-Hub/blob/main/Project-preview/homepage.png)
 - That's what you will see when you click on any blog:
-  ![DisplayBlog](#)
+  ![DisplayBlog](https://github.com/AyushiGupta160604/Blogging-Hub/blob/main/Project-preview/checkAnyBlog.png)
 - When you want to create a new blog you will see something like this:
-  ![CreateBlog](#)
+  ![CreateBlog](https://github.com/AyushiGupta160604/Blogging-Hub/blob/main/Project-preview/AddBlog.png)
 
 ## Using-JSON-Server
 - Open a new terminal and run command:

@@ -28,7 +28,7 @@ Blogging-Hub is a straightforward blogging application built with React.js. It a
 
 ## Live Demo
 
-Check out the live demo of the Blogging-Hub [here](your_live_demo_link).
+Check out the live demo of the Blogging-Hub [here](https://github.com/AyushiGupta160604/Blogging-Hub/blob/main/Project-preview/Blogging-Hub.mp4).
 
 ## Screenshots
 

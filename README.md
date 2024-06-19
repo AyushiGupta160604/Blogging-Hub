@@ -21,7 +21,6 @@ Blogging-Hub is a straightforward blogging application built with React.js. It a
 
 - **Create Posts**: Write and publish new blog posts.
 - **Read Posts**: View all published posts in a clean and organized manner.
-- **Update Posts**: Edit existing posts to correct or update content.
 - **Delete Posts**: Remove posts that are no longer needed.
 - **Responsive Design**: Fully responsive layout that works on all devices.
 - **Modern UI**: Clean and minimalistic user interface.

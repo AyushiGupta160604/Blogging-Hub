@@ -2,6 +2,10 @@
 
 Welcome to **Blogging-Hub**, a minimalistic and elegant blogging platform built with React.js. This repository contains the source code for a simple blog where you can create, read, update, and delete posts.
 
+- ## Live at:
+  ```bash
+  https://blogging-hub-1606.netlify.app/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
